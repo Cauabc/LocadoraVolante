@@ -1,0 +1,15 @@
+C:\Users\Caua\Desktop\LocadoraVolante\bin\Debug\net7.0\LocadoraVolante.exe
+C:\Users\Caua\Desktop\LocadoraVolante\bin\Debug\net7.0\LocadoraVolante.deps.json
+C:\Users\Caua\Desktop\LocadoraVolante\bin\Debug\net7.0\LocadoraVolante.runtimeconfig.json
+C:\Users\Caua\Desktop\LocadoraVolante\bin\Debug\net7.0\LocadoraVolante.dll
+C:\Users\Caua\Desktop\LocadoraVolante\bin\Debug\net7.0\LocadoraVolante.pdb
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.csproj.AssemblyReference.cache
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.AssemblyInfoInputs.cache
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.AssemblyInfo.cs
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.csproj.CoreCompileInputs.cache
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.dll
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\refint\LocadoraVolante.dll
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.pdb
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\LocadoraVolante.genruntimeconfig.cache
+C:\Users\Caua\Desktop\LocadoraVolante\obj\Debug\net7.0\ref\LocadoraVolante.dll
